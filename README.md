@@ -1,7 +1,7 @@
 # GoIP status
 Get the status of 1 port GoIP
 
-I made this script for a Zabix check. It is quick-and-dirty, but it works perfectly.
+I made this script for a Zabbix check. It is quick-and-dirty, but it works perfectly.
 
 Usage is simpel.
 
